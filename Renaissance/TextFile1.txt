@@ -1,0 +1,10 @@
+PROJET RENAISSANCE
+CREER LE 19 JANVIER 2021
+PAR HENRY ALAIN SINDANI
+BUT:
+le but de ce projet consiste à écrire du code pour microcontroleur travaillant sur la 
+platforme arduino.
+Pour la gestion de tache d'un bras mécanique.
+COMPOSANTE:
+la partie code , la partie graphique avec html/css
+La gestion de projet.
